@@ -1,2 +1,5 @@
-aiogram
-aiosqlite
+aiogram==3.15.0
+aiocryptopay==0.3.5
+aiohttp==3.10.11
+aiofiles==24.1.0
+aiosqlite==0.20.0
